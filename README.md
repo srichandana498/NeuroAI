@@ -202,7 +202,7 @@ NeuroAI is designed as a scalable platform that can evolve into a comprehensive 
 
 ## Author
 
-**Srichandan**
+**Srichandana**
 
 GitHub: https://github.com/srichandana498
 
